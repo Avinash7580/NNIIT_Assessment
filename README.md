@@ -36,10 +36,6 @@ source venv/bin/activate       # Windows: venv\Scripts\activate
 bash
 pip install fastapi uvicorn
 
-**🚀 Running the Server**
-bash
-uvicorn main:app --reload
-Go to: http://127.0.0.1:8000/docs to explore and test your API
 
 **🔌 API Endpoints**
 1. POST /flashcard

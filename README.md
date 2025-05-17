@@ -22,16 +22,6 @@ An intelligent backend API built with FastAPI that powers a smart flashcard syst
 ⚡ Super fast and interactive API with Swagger UI
 
 
-**📦 Installation**
-bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-**✅ Setup Virtual Environment (Optional)**
-bash
-python -m venv venv
-source venv/bin/activate       # Windows: venv\Scripts\activate
-
 **🛠 Install Dependencies**
 bash
 pip install fastapi uvicorn
